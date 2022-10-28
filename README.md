@@ -44,7 +44,7 @@ Pièces jointes :
 
 [Maquettes du site Booki](images/maquettes)
 
-[Note de synthèse pour intégration du site Booki]("./ressources/Note de synthèse pour intégration du site Booki.pdf")
+[Note de synthèse pour intégration du site Booki]("./ressources/note_de_synthese.pdf")
 
 Ravi par ce projet, vous commencez par vous plonger dans l’étude des maquettes ! 
 

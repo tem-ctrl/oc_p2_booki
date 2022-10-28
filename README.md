@@ -48,3 +48,9 @@ Pièces jointes :
 
 Ravi par ce projet, vous commencez par vous plonger dans l’étude des maquettes !
 
+
+
+<figure>
+  <img src="./images/apercu/preview.png" alt="Desktop preview">
+  <figurecaption>Site preview on different devices</figurecaption>
+</figure>

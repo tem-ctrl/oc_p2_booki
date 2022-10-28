@@ -1,10 +1,12 @@
 # **Projet: Transformez une maquette en site web avec HTML & CSS**
 
+[Voir un aperçu du site](https://tem-ctrl.github.io/oc_p2_booki/)
+
 # Scénario
 
 Vous débutez votre alternance en tant que développeur web au sein de la start-up Booki.
 
-<img src="./images/logo/booki-banner.png" alt="Booki banner">
+<img src="./images/logo/booki-banner.png" width="700px" alt="Booki banner">
 
 L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
@@ -48,3 +50,10 @@ Pièces jointes :
 
 Ravi par ce projet, vous commencez par vous plonger dans l’étude des maquettes !
 
+
+Un aperçu du résultat en images:
+
+<figure>
+  <img src="./images/apercu/result.png" alt="Desktop preview">
+  <figurecaption>Apperçu du site sur differents appareils</figurecaption>
+</figure>

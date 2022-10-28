@@ -46,5 +46,5 @@ Pièces jointes :
 
 [Note de synthèse pour intégration du site Booki](ressources/note_de_synthese.pdf)
 
-Ravi par ce projet, vous commencez par vous plonger dans l’étude des maquettes ! 
+Ravi par ce projet, vous commencez par vous plonger dans l’étude des maquettes !
 

@@ -51,6 +51,6 @@ Ravi par ce projet, vous commencez par vous plonger dans l’étude des maquette
 
 
 <figure>
-  <img src="./images/apercu/preview.png" alt="Desktop preview">
-  <figurecaption>Site preview on different devices</figurecaption>
+  <img src="./images/apercu/result.png" alt="Desktop preview">
+  <figurecaption>Apperçu du site sur differents appareils</figurecaption>
 </figure>

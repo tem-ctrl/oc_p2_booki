@@ -51,9 +51,7 @@ Pièces jointes :
 Ravi par ce projet, vous commencez par vous plonger dans l’étude des maquettes !
 
 
-Un aperçu du résultat en images:
+Un clic sur l'aperçu du résulta ci-dessous vous mènera à l'aperçu réel du site:
 
-<figure>
-  <img src="./images/apercu/result.png" alt="Desktop preview">
-  <figurecaption>Apperçu du site sur differents appareils</figurecaption>
-</figure>
+  <a href="https://tem-ctrl.github.io/oc_p2_booki/"><img src="./images/apercu/result.png" alt="Desktop preview"></a>
+

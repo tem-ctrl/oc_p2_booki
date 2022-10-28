@@ -1,5 +1,7 @@
 # **Projet: Transformez une maquette en site web avec HTML & CSS**
 
+[Voir un aperçu du site](https://tem-ctrl.github.io/oc_p2_booki/)
+
 # Scénario
 
 Vous débutez votre alternance en tant que développeur web au sein de la start-up Booki.
@@ -49,6 +51,7 @@ Pièces jointes :
 Ravi par ce projet, vous commencez par vous plonger dans l’étude des maquettes !
 
 
+Un aperçu du résultat en images:
 
 <figure>
   <img src="./images/apercu/result.png" alt="Desktop preview">

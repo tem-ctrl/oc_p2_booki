@@ -502,6 +502,10 @@ when focused */
     padding: 0;
   }
 
+  .fa-lg {
+    font-size: 20px;
+  }
+
   /* ||m Header */
   .header {
     flex-direction: column;

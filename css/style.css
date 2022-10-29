@@ -619,6 +619,7 @@ when focused */
   }
 
   .search-text {
+    padding-left: 5px;
     font-size: 11px;
   }
 

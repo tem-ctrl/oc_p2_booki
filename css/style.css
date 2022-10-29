@@ -609,7 +609,7 @@ when focused */
     height: 100%;
     width: 50%;
     margin: 0;
-    padding: 0 16px;
+    padding: 0 13px;
     box-shadow: 0 4px 4px 0 var(--white);
   }
 

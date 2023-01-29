@@ -2,6 +2,10 @@
 
 [Voir un aperçu du site](https://tem-ctrl.github.io/oc_p2_booki/)
 
+# Compétences évaluées
+- Intégrer du contenu conformément à une maquette
+- Implémenter une interface responsive
+
 # Scénario
 
 Vous débutez votre alternance en tant que développeur web au sein de la start-up Booki.

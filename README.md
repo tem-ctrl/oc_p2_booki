@@ -44,7 +44,7 @@ Sarah, CTO @Booki
 
 Pièces jointes :
 
-[Maquettes du site Booki](images/maquettes)
+[Maquettes du site Booki](https://www.figma.com/file/pcpeGtoVms09ztpKepwiiS/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)?node-id=3%3A0&t=02FBYgWeIqsxBDJX-0)
 
 [Note de synthèse pour intégration du site Booki](ressources/note_de_synthese.pdf)
 
